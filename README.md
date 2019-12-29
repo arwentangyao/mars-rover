@@ -37,15 +37,15 @@ Rover1:1 3 N
 Rover2:5 1 E
 ```
 
-##Requirements
+## Requirements
 
 You'll need nodejs installed, version higher than 4.0.0.
 
-##Running the program
+## Running the program
 
 To run it, create input files and run `node src/index.js path/to/your/test/**.txt`, e.g. `node src/index.js sample-inputs/rover1.txt`. For some example test scripts, see the `sample-inputs` directory.
 
-##Running the tests
+## Running the tests
 
  install :
 
