@@ -1,0 +1,12 @@
+{
+  "name": "mars-rover",
+  "version": "0.0.0",
+  "description": "Mars-Rover",
+  "scripts": {
+    "test": "tape test/*.js",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
